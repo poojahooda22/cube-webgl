@@ -81,8 +81,6 @@ const Hero = () => {
 
                 <div className="hero-visual">
                     <div className="cube-stage">
-                        <div className="prism-ring-outer"></div>
-                        <div className="prism-ring"></div>
 
                         <div className="particle p1"></div>
                         <div className="particle p2"></div>
@@ -111,11 +109,6 @@ const Hero = () => {
                             >
                                 <Scene />
                             </div>
-                            {/* Optional: Overlay labels from original template if desired */}
-                            {/* <div style={{ position: 'relative', zIndex: 1, pointerEvents: 'none', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', height: '100%' }}>
-                <span className="asset-label">Your 3D WebGL Cube</span>
-                <span className="asset-sublabel">Mount your &lt;canvas&gt; here</span>
-              </div> */}
                         </div>
                     </div>
                 </div>

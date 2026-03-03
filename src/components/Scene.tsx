@@ -14,7 +14,7 @@ import logoUrl from '../assets/logo.png'
 const CONFIG = {
     cameraX: 0,
     cameraY: 0,
-    cameraZ: 5.7,
+    cameraZ: 4.0,
     rotation: 4.8,
     rotateX: 1,
     rotateY: 1,
