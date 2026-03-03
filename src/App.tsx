@@ -1,9 +1,9 @@
-import Scene from './components/Scene'
+import Hero from './components/Hero'
 
 function App() {
   return (
     <div className="App">
-      <Scene />
+      <Hero />
     </div>
   )
 }

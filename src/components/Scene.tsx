@@ -194,7 +194,7 @@ const Scene = () => {
         }
     }, [])
 
-    return <div ref={containerRef} className="content" />
+    return <div ref={containerRef} style={{ width: '100%', height: '100%' }} />
 }
 
 export default Scene
