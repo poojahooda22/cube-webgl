@@ -507,6 +507,7 @@ nav {
 	align-items: center;
 	justify-content: center;
 	position: relative;
+	padding-left: 200px;
 	animation: fadeUp 0.9s ease-out 0.35s both;
 }
 
